@@ -8,8 +8,11 @@ Desafio pratico criado para o Bootcamp do Banco Carrefour Woman Developer.
 Nesse projeto, o desafio foi criar um APP com algoritimo simples de cadastro de séries utilizando os conhecimentos de orientação a objetos.
 
 # Tecnologias 🔨
+ 
  *Orientação a Obejetos  
+ 
  *Recurso de coleção C# 
+ 
  *.NET  Lógica de programação.
 
                                                               👧 Autora
