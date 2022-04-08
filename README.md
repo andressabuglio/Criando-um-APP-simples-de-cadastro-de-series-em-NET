@@ -1,6 +1,6 @@
 # Criando um APP simples de cadastro de séries em .NET
 
-                                             • Sobre | • Roteiro | • Tecnologias | • Autor
+                                              • Sobre | • Roteiro | • Tecnologias | • Autor
 
  # Sobre 💻
 Desafio pratico criado para realizar cadastro de Séries.
