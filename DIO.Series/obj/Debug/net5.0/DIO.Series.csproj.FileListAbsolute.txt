@@ -1,0 +1,32 @@
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\andre\Documents\GitHub\Criando um APP simples de cadastro de séries em .NET\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\refint\DIO.Series.dll
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
+C:\Users\Admin\Documents\Dev\Git\DIO\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\Criando-um-APP-simples-de-cadastro-de-series-em-NET\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll

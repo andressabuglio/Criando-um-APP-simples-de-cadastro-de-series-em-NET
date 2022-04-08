@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vHgIxJBP1LiBNga8Ok0+31d3Vc+GIkjNsNTlg/sXqGpli4zki7qyZI/Cg0/alQE34mgEYqsW77hwKQBLxFAvDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\Dev\\Git\\DIO\\Criando-um-APP-simples-de-cadastro-de-series-em-NET-main\\Criando-um-APP-simples-de-cadastro-de-series-em-NET\\DIO.Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
