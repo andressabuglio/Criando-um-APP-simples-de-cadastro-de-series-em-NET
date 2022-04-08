@@ -10,10 +10,8 @@ Nesse projeto, o desafio foi criar um APP com algoritimo simples de cadastro de 
 # Tecnologias 🔨
  
  *Orientação a Obejetos  
- 
- *Recurso de coleção C# 
- 
- *.NET  Lógica de programação.
+*Recurso de coleção C# 
+*.NET  Lógica de programação.
 
                                                               👧 Autora
                                                        Feito por Andressa Buglio
